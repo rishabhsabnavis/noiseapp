@@ -107,6 +107,7 @@ npm run dev
 ## 🤖 Model Training
 
 The AI model was trained using the UrbanSound8K dataset with custom noise pollution level mappings:
+Visit This Page to Learn more about the Trained Model: https://huggingface.co/rishabhsabnavis/noise-pollution-model 
 
 ### Noise Level Categories
 - **Low**: Air conditioner sounds (≤45 dB)
